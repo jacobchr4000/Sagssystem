@@ -1,0 +1,9 @@
+C:\Min Computer\C#\Projects\Sagssystem\Sagssystem\obj\Debug\Sagssystem.csprojResolveAssemblyReference.cache
+C:\Min Computer\C#\Projects\Sagssystem\Sagssystem\obj\Debug\Sagssystem.HomeBase.resources
+C:\Min Computer\C#\Projects\Sagssystem\Sagssystem\obj\Debug\Sagssystem.Properties.Resources.resources
+C:\Min Computer\C#\Projects\Sagssystem\Sagssystem\obj\Debug\Sagssystem.csproj.GenerateResource.Cache
+C:\Min Computer\C#\Projects\Sagssystem\Sagssystem\bin\Debug\Sagssystem.exe.config
+C:\Min Computer\C#\Projects\Sagssystem\Sagssystem\bin\Debug\Sagssystem.exe
+C:\Min Computer\C#\Projects\Sagssystem\Sagssystem\bin\Debug\Sagssystem.pdb
+C:\Min Computer\C#\Projects\Sagssystem\Sagssystem\obj\Debug\Sagssystem.exe
+C:\Min Computer\C#\Projects\Sagssystem\Sagssystem\obj\Debug\Sagssystem.pdb

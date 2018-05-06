@@ -1,0 +1,9 @@
+C:\Min Computer\C#\Projects\Eksempel Sagssystem\Sagssystem\bin\Release\Sagssystem.exe.config
+C:\Min Computer\C#\Projects\Eksempel Sagssystem\Sagssystem\bin\Release\Sagssystem.exe
+C:\Min Computer\C#\Projects\Eksempel Sagssystem\Sagssystem\bin\Release\Sagssystem.pdb
+C:\Min Computer\C#\Projects\Eksempel Sagssystem\Sagssystem\obj\Release\Sagssystem.csprojResolveAssemblyReference.cache
+C:\Min Computer\C#\Projects\Eksempel Sagssystem\Sagssystem\obj\Release\Sagssystem.HomeBase.resources
+C:\Min Computer\C#\Projects\Eksempel Sagssystem\Sagssystem\obj\Release\Sagssystem.Properties.Resources.resources
+C:\Min Computer\C#\Projects\Eksempel Sagssystem\Sagssystem\obj\Release\Sagssystem.csproj.GenerateResource.Cache
+C:\Min Computer\C#\Projects\Eksempel Sagssystem\Sagssystem\obj\Release\Sagssystem.exe
+C:\Min Computer\C#\Projects\Eksempel Sagssystem\Sagssystem\obj\Release\Sagssystem.pdb
